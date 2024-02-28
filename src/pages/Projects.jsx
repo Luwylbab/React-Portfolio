@@ -48,7 +48,7 @@ export default function Projects() {
             <h3>{item.title}</h3>
             <a href={item.link} target="_blank" rel="noopener noreferrer">
             <img className="proj-images" src={item.image} alt={item.title} />
-          </a>
+            </a>
           </div>
         ))}
       </div>
@@ -56,8 +56,9 @@ export default function Projects() {
         {items.slice(3, 6).map((item, index) => (
           <div key={index} className="col">
             <h3>{item.title}</h3>
+            <a href={item.link} target="_blank" rel="noopener noreferrer">
             <img className="proj-images" src={item.image} alt={item.title} />
-          </div>
+            </a>          </div>
         ))}
       </div>
     </div>
