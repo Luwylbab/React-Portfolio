@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.proj-images {
+    max-width: 600px;
+    max-height: 300px;
+  }
+
+.resume-img {
+    
+}
