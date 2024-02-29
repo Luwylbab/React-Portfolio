@@ -19,8 +19,8 @@
 
 - Use the navigation bar at the top of the webpage, click on a link and it will take you to the desired area of the page.
 
-![first screenshot of the webpage](./assets/images/Portfolio1.png)
-![second screenshot of the webpage](./assets/images/Portfolio2.png)
+![first screenshot of the webpage](./src/assets/images/Portfolio(1).png)
+![second screenshot of the webpage](./src/assets/images/Portfolio(2).png)
 
 ## Credits
 
