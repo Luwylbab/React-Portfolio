@@ -6,8 +6,9 @@
 .proj-images {
     max-width: 600px;
     max-height: 300px;
-  }
+}
 
 .resume-img {
-    
+    width: 50%;
+    height: auto;
 }
