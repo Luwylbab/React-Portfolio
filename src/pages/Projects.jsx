@@ -4,6 +4,7 @@ import noteApp from '../assets/images/NoteTaker.png'
 import dadJoke from '../assets/images/DadWeather.png'
 import jsQuiz from '../assets/images/JSQuiz1.png'
 import dayPlanner from '../assets/images/DayPlanner.png'
+import lovestruck from '../assets/images/LoveStruck.png'
 
 
 const items = [
@@ -33,9 +34,9 @@ const items = [
   link: 'https://luwylbab.github.io/JavaScript-Quiz/',
 },
 {
-  title: 'Daily Planner',
-  image: dayPlanner,
-  link: 'https://luwylbab.github.io/Daily-Planner/',
+  title: 'Wedding RSVP App',
+  image: lovestruck,
+  link: 'https://lovestruck.onrender.com/',
 },
 ]
 export default function Projects() {
